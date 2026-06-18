@@ -7,7 +7,7 @@
             "id": "d6xj"
         }
     ],
-    "main": "src/index.ts",
+    "main": "dist/index.js",
     "vendetta": {
         "icon": "ic_locale_24px"
     }
