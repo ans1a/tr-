@@ -1,0 +1,14 @@
+{
+    "name": "tr-slang",
+    "description": "Traduz português para inglês com gírias naturais usando /tr",
+    "authors": [
+        {
+            "name": "ansia",
+            "id": "d6xj"
+        }
+    ],
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": "ic_locale_24px"
+    }
+}
